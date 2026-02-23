@@ -10,7 +10,7 @@ namespace LU2
     {
         static void Main(string[] args)
         {
-            // the boy
+            // the boy Kamo
         }
     }
 }
